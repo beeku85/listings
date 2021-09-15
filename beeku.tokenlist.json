@@ -11,7 +11,7 @@
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 42161,
+      "chainId": "42161",
       "address": "0xde31e75182276738b0c025daa8f80020a4f2fbfe",
       "symbol": "HONEY",
       "name": "Honeypot finance",
